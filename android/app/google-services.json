@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922307492010",
+    "project_id": "flutter-dbestech",
+    "storage_bucket": "flutter-dbestech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922307492010:android:a07f646b9eb6dffcd3f8d3",
+        "android_client_info": {
+          "package_name": "com.example.dbestech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXdYAOtClRGqB6YhNtfe_aQ0xJcvUrH6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
